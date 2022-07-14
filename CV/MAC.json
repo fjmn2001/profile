@@ -1,0 +1,103 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Francisco",
+      "surnames": "Marcano",
+      "title": "Founder and Developer at Medine.tech",
+      "description": "Me gusta mucho el mundo de la tecnología, aunque en un principio me llamaba mucho la atención las telecomunicaciones mis estudios y mi carrera ha ido \"pivoteando\" hacia el desarrollo de software, primero como single contributor y actualmente como founder de un pequeño grupo de desarrollo (pero aún me gusta programar)",
+      "location": {
+        "notes": "Barcelona, Venezuela."
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/fjmn2001"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/francisco-marcano-8b6167b9/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Me gustan los retos y el pensamiento lógico",
+        "fact": "En mi proceso de aprendizaje continuo me gusta resolver los impedimentos que se presentan en el camino en función de siempre estar desarrollando la lógica para resolución de problemas en cualquier ámbito."
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/francisco-marcano-8b6167b9/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "PHP",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "Angular2+",
+          "type": "technology"
+        },
+        {
+          "name": "Vue",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
