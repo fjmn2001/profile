@@ -8,13 +8,16 @@
     "profile": {
       "name": "Francisco",
       "surnames": "Marcano",
-      "title": "Founder and Developer at Medine.tech",
-      "description": "Me gusta mucho el mundo de la tecnología, aunque en un principio me llamaba mucho la atención las telecomunicaciones mis estudios y mi carrera ha ido \"pivoteando\" hacia el desarrollo de software, primero como single contributor y actualmente como founder de un pequeño grupo de desarrollo (pero aún me gusta programar)",
+      "title": "Founder",
+      "description": "Ingeniero en Informática con experiencia en varios lenguajes de\nprogramación, así como en redes de computadoras. Con vocación para\nenfrentar nuevos retos en pro de alcanzar los objetivos de la\norganización. Emprendedor y con facilidad para adquirir nuevos\nconocimientos.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/18/c650062f-f8d2-4bcd-a06b-10edb096f158_linkedin-photo-7810.linkedin-photo-7810",
+        "alt": "23/11/18/c650062f-f8d2-4bcd-a06b-10edb096f158_linkedin-photo-7810.linkedin-photo-7810"
+      },
       "location": {
-        "notes": "Autocompleted using Google Maps API (id: ChIJbzBx_z5yLYwRdZ6I7zy0_iI)",
+        "notes": "Autocompleted using Google Maps API (id: ChIJjdOVO6QULYwRk2OUvhuIQbI)",
         "country": "Venezuela",
-        "region": "Anzoátegui",
-        "municipality": "Barcelona"
+        "region": "Anzoátegui"
       }
     },
     "interestingFacts": [
@@ -34,14 +37,53 @@
       }
     ]
   },
-  "knowledge": {
-    "languages": [
+  "experience": {
+    "jobs": [
       {
-        "name": "ES",
-        "fullName": "Español",
-        "level": "Limited working proficiency"
+        "organization": {
+          "name": "medine.tech"
+        },
+        "roles": [
+          {
+            "name": "Founder",
+            "startDate": "2021-01-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Pensanomica",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/18/1ee6cd7b-0afa-4a02-9c77-0dea03cbe298_linkedin-photo-7810.linkedin-photo-7810",
+            "alt": "23/11/18/1ee6cd7b-0afa-4a02-9c77-0dea03cbe298_linkedin-photo-7810.linkedin-photo-7810"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de software",
+            "startDate": "2016-06-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Adamantio, C.A.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/18/0e3885b4-0f59-4aa0-84d5-512b672d4bed_linkedin-photo-7810.linkedin-photo-7810",
+            "alt": "23/11/18/0e3885b4-0f59-4aa0-84d5-512b672d4bed_linkedin-photo-7810.linkedin-photo-7810"
+          }
+        },
+        "roles": [
+          {
+            "name": "Gerente de Operaciones",
+            "startDate": "2014-04-01",
+            "finishDate": "2016-05-31"
+          }
+        ]
       }
-    ],
+    ]
+  },
+  "knowledge": {
     "hardSkills": [
       {
         "skill": {
