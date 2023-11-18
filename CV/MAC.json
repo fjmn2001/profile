@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
-    "language": "EN",
-    "MACVersion": "0.3"
+    "language": "ES",
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -11,39 +11,38 @@
       "title": "Founder and Developer at Medine.tech",
       "description": "Me gusta mucho el mundo de la tecnología, aunque en un principio me llamaba mucho la atención las telecomunicaciones mis estudios y mi carrera ha ido \"pivoteando\" hacia el desarrollo de software, primero como single contributor y actualmente como founder de un pequeño grupo de desarrollo (pero aún me gusta programar)",
       "location": {
-        "notes": "Barcelona, Venezuela."
+        "notes": "Autocompleted using Google Maps API (id: ChIJbzBx_z5yLYwRdZ6I7zy0_iI)",
+        "country": "Venezuela",
+        "region": "Anzoátegui",
+        "municipality": "Barcelona"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/fjmn2001"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/francisco-marcano-8b6167b9/"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "Me gustan los retos y el pensamiento lógico",
         "fact": "En mi proceso de aprendizaje continuo me gusta resolver los impedimentos que se presentan en el camino en función de siempre estar desarrollando la lógica para resolución de problemas en cualquier ámbito."
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/francisco-marcano-8b6167b9/"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/fjmn2001"
       }
     ]
   },
   "knowledge": {
     "languages": [
       {
-        "name": "Spanish"
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
-      {
-        "skill": {
-          "name": "PHP",
-          "type": "technology"
-        }
-      },
       {
         "skill": {
           "name": "JavaScript",
@@ -52,7 +51,7 @@
       },
       {
         "skill": {
-          "name": "TypeScript",
+          "name": "PHP",
           "type": "technology"
         }
       },
@@ -61,6 +60,32 @@
           "name": "SQL",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacidad de escucha",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pensamiento analítico",
+          "type": "practice"
+        }
       }
     ]
   },
@@ -68,8 +93,21 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/francisco-marcano-8b6167b9/"
+          "URL": "https://www.linkedin.com/in/francisco-marcano-8b6167b9/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://twitter.com/fjmn2001",
+          "type": "twitter"
+        }
+      ],
+      "contactMails": [
+        "fjmn2001@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "4121195026",
+          "countryCode": "+58"
         }
       ]
     },
@@ -97,7 +135,16 @@
           "name": "Vue",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Full-stack Developer"
       ]
-    }
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "FullStack, no sé la mejor forma de decir esto sin que se vea mal, pero soy como el que más tiene experiencia en mi entorno y me gustaría ir a otros entornos a aprender más. En mi entorno no tengo de quien aprender más de lo que pueda obtener leyendo, haciendo cursos y otros.",
+    "goodPractices": "Me gustan las arquitecturas limpias como Hexagonal y DDD, adaptadas para facilitar el testing. Integración continua con su respectiva validación de estilos y corrida de test."
   }
 }
