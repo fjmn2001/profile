@@ -45,7 +45,31 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "Apple macOS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Laravel",
           "type": "technology"
         }
       },
@@ -57,13 +81,43 @@
       },
       {
         "skill": {
+          "name": "PHPStorm",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "SQL",
           "type": "technology"
         }
       },
       {
         "skill": {
+          "name": "Symfony",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ubuntu",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
           "type": "technology"
         }
       }
@@ -144,6 +198,28 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "Laravel",
+        "type": "technology"
+      },
+      {
+        "name": "PHP",
+        "type": "technology"
+      },
+      {
+        "name": "PHPStorm",
+        "type": "technology"
+      },
+      {
+        "name": "SQL",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "FullStack, no sé la mejor forma de decir esto sin que se vea mal, pero soy como el que más tiene experiencia en mi entorno y me gustaría ir a otros entornos a aprender más. En mi entorno no tengo de quien aprender más de lo que pueda obtener leyendo, haciendo cursos y otros.",
     "goodPractices": "Me gustan las arquitecturas limpias como Hexagonal y DDD, adaptadas para facilitar el testing. Integración continua con su respectiva validación de estilos y corrida de test."
   }
