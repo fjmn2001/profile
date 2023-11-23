@@ -32,6 +32,10 @@
         "URL": "https://www.linkedin.com/in/francisco-marcano-8b6167b9/"
       },
       {
+        "type": "github",
+        "URL": "https://github.com/fjmn2001"
+      },
+      {
         "type": "twitter",
         "URL": "https://twitter.com/fjmn2001"
       }
@@ -203,6 +207,10 @@
         {
           "URL": "https://www.linkedin.com/in/francisco-marcano-8b6167b9/",
           "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/fjmn2001",
+          "type": "github"
         },
         {
           "URL": "https://twitter.com/fjmn2001",
