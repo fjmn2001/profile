@@ -84,6 +84,13 @@
     ]
   },
   "knowledge": {
+    "languages": [
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
     "hardSkills": [
       {
         "skill": {
