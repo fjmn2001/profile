@@ -180,6 +180,37 @@
         }
       }
     ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniero en Informática",
+        "startDate": "2004-03-01",
+        "institution": {
+          "name": "UPTP Luis Mariano Rivera",
+          "description": "El programa de Ingeniería en Informática en Venezuela generalmente se desarrolla en universidades y tiene una duración que oscila entre 4 y 5 años, dependiendo de la institución. Durante este período de estudios, los estudiantes adquieren una base sólida en diferentes áreas de conocimiento relacionadas con la informática, como programación, bases de datos, redes de computadoras, sistemas operativos, algoritmos, seguridad informática, entre otros."
+        },
+        "finishDate": "2009-09-01",
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          }
+        ]
+      }
+    ],
     "softSkills": [
       {
         "skill": {
